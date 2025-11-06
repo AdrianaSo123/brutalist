@@ -1,7 +1,7 @@
 # Quality Gates Setup Guide
 ## Let AI Configure Your Professional Dev Environment
 
-**For:** IS 218 Enterprise AI Studio Project  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Instructor:** Keith Williams  
 **Purpose:** Automated quality assurance using industry-standard tools
 
@@ -663,5 +663,5 @@ AI handles the tedious setup. You handle the creative work.
 
 **Document Version:** 1.0  
 **Last Updated:** November 5, 2025  
-**Course:** IS 218 Enterprise AI Studio Project  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Instructor:** Keith Williams, NJIT

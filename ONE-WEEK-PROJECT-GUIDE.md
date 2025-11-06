@@ -1,6 +1,6 @@
 # Design Gallery Project: One-Week Guide
 
-**Course:** IS 218 Enterprise AI Studio  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Duration:** ~10 hours with AI  
 **Method:** Vibe coding (AI writes code, you direct)
 

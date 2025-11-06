@@ -1,7 +1,7 @@
 # Collaboration Story Template
 ## How to Create Your AI Reflection Page
 
-**For:** IS 218 Enterprise AI Studio Project  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Purpose:** Guide for generating the collaboration story where AI breaks the fourth wall
 
 ---
@@ -363,5 +363,5 @@ Before publishing, verify you have all these:
 
 **Document Version:** 1.0  
 **Last Updated:** November 5, 2025  
-**Course:** IS 218 Enterprise AI Studio Project  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Instructor:** Keith Williams, NJIT

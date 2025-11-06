@@ -445,5 +445,5 @@ Understand what you're transforming FROM:
 
 **Document Version:** 1.0  
 **Last Updated:** November 5, 2025  
-**Course:** IS 218 Enterprise AI Studio Project  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Instructor:** Keith Williams, NJIT

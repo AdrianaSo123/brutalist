@@ -1,8 +1,11 @@
 # Design Quality Checklist
 ## Section-by-Section Review Tool
 
-**For:** IS 218 Enterprise AI Studio Project  
-**Purpose:** Systematic design review framework for each iteration
+# Design Quality Checklist
+## Review Framework for Every Section
+
+**Project:** Swiss Design Lineage Vibe Coding  
+**Purpose:** Systematic quality review before moving forward
 
 ---
 
@@ -537,5 +540,5 @@ Keep screenshots from each iteration. Your collaboration story will need them.
 
 **Document Version:** 1.0  
 **Last Updated:** November 5, 2025  
-**Course:** IS 218 Enterprise AI Studio Project  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Instructor:** Keith Williams, NJIT

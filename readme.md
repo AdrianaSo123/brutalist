@@ -150,7 +150,6 @@ Use [DESIGN-QUALITY-CHECKLIST.md](DESIGN-QUALITY-CHECKLIST.md). Review 2-3x mini
 
 ---
 
-**Project:** Design Gallery  
-**Course:** IS 218 Enterprise AI Studio  
+**Project:** Swiss Design Lineage Vibe Coding  
 **Instructor:** Keith Williams  
 **Version:** 2.0 — November 2025
