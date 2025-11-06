@@ -1,96 +1,67 @@
 # Style Guides Directory
-## Complete Collection of Design Style References
-
-This directory contains comprehensive style guides for all 15 design options in the Design Gallery project.
+## 15 Complete Design Style References
 
 **✅ ALL 15 GUIDES COMPLETE** — 300+ pages of design documentation
 
+Organized by difficulty to help you choose the right challenge.
+
 ---
 
-## 📚 Complete Style Guide Collection
+## � Browse by Difficulty
 
-### Reactions Against Swiss Design (3 guides)
+### [⭐ Beginner](beginner/) — 2 Styles
+Clear rules, forgiving, great first choice.
 
-1. **[Neo-Brutalism](NEO-BRUTALISM-GUIDE.md)** ⭐⭐ Medium
-   - Raw, honest, anti-corporate web design
-   - Stark black/white, thick borders, system fonts
-   - Example sites: brutalistwebsites.com, Pascal Deville
+- **[Flat Design](beginner/FLAT-DESIGN-GUIDE.md)** — iOS 7 aesthetic, bright colors, clean UI
+- **[Neo-Swiss](beginner/NEO-SWISS-GUIDE.md)** — Modern responsive grids (Stripe.com style)
 
-2. **[Swiss Punk / New Wave](SWISS-PUNK-GUIDE.md)** ⭐⭐⭐ Advanced
-   - Kinetic rebellion led by Wolfgang Weingart
-   - Layered typography, diagonal compositions, controlled chaos
-   - Study: "My Way to Typography" book
+### [⭐⭐ Intermediate](intermediate/) — 6 Styles
+Requires attention to typography, spacing, hierarchy.
 
-3. **[Deconstructivist / Grunge](DECONSTRUCTIVIST-GRUNGE-GUIDE.md)** ⭐⭐⭐ Advanced
-   - Anti-grid, emotional, textured chaos
-   - David Carson's Ray Gun magazine aesthetic
-   - Rebellious 1990s typography
+- **[Neo-Brutalism](intermediate/NEO-BRUTALISM-GUIDE.md)** — Raw, anti-corporate web design
+- **[Nordic Minimalism](intermediate/NORDIC-MINIMALISM-GUIDE.md)** — Scandinavian calm and spaciousness
+- **[Humanist Modernism](intermediate/HUMANIST-MODERNISM-GUIDE.md)** — Human-centered, readable design
+- **[Editorial Swiss](intermediate/EDITORIAL-SWISS-GUIDE.md)** — Long-form typographic hierarchy
+- **[Fluent Design / Metro](intermediate/FLUENT-METRO-GUIDE.md)** — Microsoft's typography-first UI
+- **[Corporate Modernism](intermediate/CORPORATE-MODERNISM-GUIDE.md)** — Systematic brand identity (Paul Rand, Vignelli)
 
-### Humanized Descendants (4 guides)
+### [⭐⭐⭐ Advanced](advanced/) — 7 Styles
+Complex systems, historical depth, rigorous methodology.
 
-4. **[Nordic Minimalism](NORDIC-MINIMALISM-GUIDE.md)** ⭐⭐ Medium
-   - Calm, spacious, natural Scandinavian aesthetic
-   - Warm neutrals, generous whitespace, humanist typography
-   - Reference: Kinfolk Magazine, IKEA, Norm Architects
+- **[Material Design](advanced/MATERIAL-DESIGN-GUIDE.md)** — Google's elevation and motion system
+- **[Swiss Punk / New Wave](advanced/SWISS-PUNK-GUIDE.md)** — Wolfgang Weingart's kinetic rebellion
+- **[ISOTYPE](advanced/ISOTYPE-GUIDE.md)** — Otto Neurath's pictogram systems
+- **[Deconstructivist / Grunge](advanced/DECONSTRUCTIVIST-GRUNGE-GUIDE.md)** — David Carson's anti-grid chaos
+- **[Vignelli Transit](advanced/VIGNELLI-TRANSIT-GUIDE.md)** — Civic wayfinding systems (NYC Subway)
+- **[Ulm School / HfG Ulm](advanced/ULM-SCHOOL-GUIDE.md)** — Scientific rationalism, Otl Aicher
+- **[Dutch Rational Modernism](advanced/DUTCH-RATIONAL-MODERNISM-GUIDE.md)** — Wim Crouwel's computational grids
 
-5. **[Humanist Modernism](HUMANIST-MODERNISM-GUIDE.md)** ⭐⭐ Medium
-   - Warm, readable, human-centered design
-   - Adrian Frutiger's humanist typefaces, generous spacing
-   - Edward Tufte's information design principles
+---
 
-6. **[Editorial Swiss](EDITORIAL-SWISS-GUIDE.md)** ⭐⭐ Medium
-   - Long-form content, typographic hierarchy
-   - Neue Grafik magazine, Emil Ruder's typography
-   - Medium.com and contemporary editorial design
+## 🎨 Browse by Design Lineage
 
-7. **[ISOTYPE / Iconic Systems](ISOTYPE-GUIDE.md)** ⭐⭐⭐ Advanced
-   - Pictogram-based information design
-   - Otto Neurath's universal visual language
-   - Gerd Arntz geometric pictograms
+### Reactions Against Swiss Design
+- [Neo-Brutalism](intermediate/NEO-BRUTALISM-GUIDE.md) ⭐⭐ — Honest rawness vs. Swiss polish
+- [Swiss Punk / New Wave](advanced/SWISS-PUNK-GUIDE.md) ⭐⭐⭐ — Weingart's kinetic rebellion
+- [Deconstructivist / Grunge](advanced/DECONSTRUCTIVIST-GRUNGE-GUIDE.md) ⭐⭐⭐ — Carson's emotional chaos
 
-### Digital Evolutions (4 guides)
+### Humanized Descendants
+- [Nordic Minimalism](intermediate/NORDIC-MINIMALISM-GUIDE.md) ⭐⭐ — Scandinavian warmth
+- [Humanist Modernism](intermediate/HUMANIST-MODERNISM-GUIDE.md) ⭐⭐ — Frutiger's readable design
+- [Editorial Swiss](intermediate/EDITORIAL-SWISS-GUIDE.md) ⭐⭐ — Content-first hierarchy
+- [ISOTYPE](advanced/ISOTYPE-GUIDE.md) ⭐⭐⭐ — Universal pictogram language
 
-8. **[Material Design](MATERIAL-DESIGN-GUIDE.md)** ⭐⭐⭐ Advanced
-   - Google's design language with elevation and motion
-   - 8dp grid, Roboto typography, bold colors, realistic shadows
-   - Official docs: material.io
+### Digital Evolutions
+- [Flat Design](beginner/FLAT-DESIGN-GUIDE.md) ⭐ — iOS 7 minimalism
+- [Neo-Swiss](beginner/NEO-SWISS-GUIDE.md) ⭐ — Responsive web grids
+- [Fluent Design / Metro](intermediate/FLUENT-METRO-GUIDE.md) ⭐⭐ — Windows typography-first
+- [Material Design](advanced/MATERIAL-DESIGN-GUIDE.md) ⭐⭐⭐ — Google's motion system
 
-9. **[Flat Design](FLAT-DESIGN-GUIDE.md)** ⭐ Accessible
-   - iOS 7/Windows Metro flat aesthetic
-   - Bright colors, no shadows, clean UI-focused design
-   - Beginner-friendly digital style
-
-10. **[Fluent Design / Metro](FLUENT-METRO-GUIDE.md)** ⭐⭐ Medium
-    - Microsoft's typography-first UI language
-    - Dramatically large headings, tile-based layouts
-    - Windows 10/11 design system
-
-11. **[Neo-Swiss](NEO-SWISS-GUIDE.md)** ⭐ Accessible
-    - Contemporary responsive grid design
-    - Stripe.com aesthetic, CSS Grid layouts
-    - Swiss principles for modern web
-
-### Systemic Descendants (4 guides)
-
-12. **[Corporate Modernism](CORPORATE-MODERNISM-GUIDE.md)** ⭐⭐ Medium
-    - Timeless brand identity systems
-    - Paul Rand's IBM, Massimo Vignelli's systematic approach
-    - Comprehensive corporate guidelines
-
-13. **[Vignelli Transit Modernism](VIGNELLI-TRANSIT-GUIDE.md)** ⭐⭐⭐ Advanced
-    - Wayfinding, civic systems, public information design
-    - NYC Subway map (1972), Washington Metro
-    - Functional navigation at architectural scale
-
-14. **[Ulm School / HfG Ulm](ULM-SCHOOL-GUIDE.md)** ⭐⭐⭐ Advanced
-    - Scientific rationalism, semiotic design
-    - Otl Aicher's systematic approach, Dieter Rams' principles
-    - Rigorous design methodology
-
-15. **[Dutch Rational Modernism](DUTCH-RATIONAL-MODERNISM-GUIDE.md)** ⭐⭐⭐ Advanced
-    - Computational grids, constructivist aesthetics
-    - Wim Crouwel's Stedelijk Museum posters
-    - Hyper-mathematical systematic design
+### Systemic Descendants
+- [Corporate Modernism](intermediate/CORPORATE-MODERNISM-GUIDE.md) ⭐⭐ — Rand & Vignelli brand systems
+- [Vignelli Transit](advanced/VIGNELLI-TRANSIT-GUIDE.md) ⭐⭐⭐ — Civic wayfinding design
+- [Ulm School](advanced/ULM-SCHOOL-GUIDE.md) ⭐⭐⭐ — Aicher's scientific rationalism
+- [Dutch Rational Modernism](advanced/DUTCH-RATIONAL-MODERNISM-GUIDE.md) ⭐⭐⭐ — Crouwel's computational design
 
 ---
 
