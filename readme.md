@@ -1,9 +1,8 @@
-# Swiss Design Lineage Vibe Coding
-## Build Professional Design in One Week Using AI
+# Neo-Brutalism Design Gallery
 
-Build a design gallery website using pure AI collaboration. You guide, AI codes.
+A comprehensive design gallery showcasing the Neo-Brutalism style, from its architectural origins in the 1950s to its modern digital revival. Built as part of the Swiss Design Lineage project for IS 218 - Building Web Applications.
 
-**⏱️ Time:** ~10 hours  |  **💻 Code you write:** Zero  |  **🎨 What you learn:** Design taste + AI collaboration
+⏱️ Time: ~9.5 hours | 💻 Built with: GitHub Copilot | 🎨 Style: Neo-Brutalism
 
 ---
 
