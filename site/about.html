@@ -302,6 +302,46 @@
             </div>
         </section>
 
+        <section class="ux-practices-section">
+            <div class="ux-box">
+                <h2>UX BEST PRACTICES FOR BRUTALISM</h2>
+                <p class="ux-intro">Bold aesthetics must balance with usability. Based on UX research, here's how to make brutalism functional:</p>
+                <div class="ux-grid">
+                    <div class="ux-practice">
+                        <h3>01</h3>
+                        <h4>USABILITY FIRST</h4>
+                        <p>Clear buttons, readable text, ample whitespace. Bold aesthetic shouldn't compromise intuitive navigation.</p>
+                    </div>
+                    <div class="ux-practice">
+                        <h3>02</h3>
+                        <h4>CONTRAST RATIOS</h4>
+                        <p>Bold colors must meet WCAG standards. Black on white: 21:1. Yellow accents: 10.4:1. Always accessible.</p>
+                    </div>
+                    <div class="ux-practice">
+                        <h3>03</h3>
+                        <h4>LIMITED PALETTE</h4>
+                        <p>2-3 high-contrast colors maximum. Prevents overwhelming users while maintaining visual impact.</p>
+                    </div>
+                    <div class="ux-practice">
+                        <h3>04</h3>
+                        <h4>READABILITY</h4>
+                        <p>Bold headlines, clean body text. System fonts ensure legibility across all devices and contexts.</p>
+                    </div>
+                    <div class="ux-practice">
+                        <h3>05</h3>
+                        <h4>STRATEGIC WHITESPACE</h4>
+                        <p>24-32px margins offset bold elements. Creates breathing room despite tight brutalist philosophy.</p>
+                    </div>
+                    <div class="ux-practice">
+                        <h3>06</h3>
+                        <h4>CLEAR INTERACTIONS</h4>
+                        <p>Obvious hover states, instant feedback. No smooth transitions but clear state changes.</p>
+                    </div>
+                </div>
+                <p class="ux-source">Source: <a href="https://www.nngroup.com/articles/neobrutalism/" target="_blank">Nielsen Norman Group UX Research</a></p>
+            </div>
+        </section>
+
         <section class="resources-section">
             <div class="resources-box">
                 <h2>LEARN MORE</h2>
@@ -310,6 +350,7 @@
                         <h3>ESSENTIAL READING</h3>
                         <ul>
                             <li><a href="https://brutalistwebsites.com" target="_blank">BrutalistWebsites.com</a> - The definitive collection</li>
+                            <li><a href="https://www.nngroup.com/articles/neobrutalism/" target="_blank">NN/g Neobrutalism Guide</a> - UX best practices</li>
                             <li>"Brutalist Websites" book by Pascal Deville</li>
                             <li>"Atlas of Brutalist Architecture" by Phaidon</li>
                         </ul>
@@ -612,6 +653,76 @@
             margin: 80px 0;
         }
 
+        .ux-practices-section {
+            margin: 80px 0;
+        }
+
+        .ux-box {
+            background-color: #000000;
+            border: 8px solid #FFFF00;
+            padding: 48px;
+        }
+
+        .ux-box h2 {
+            color: #FFFF00;
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .ux-intro {
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 48px;
+        }
+
+        .ux-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 24px;
+            margin-bottom: 32px;
+        }
+
+        .ux-practice {
+            background-color: #FFFFFF;
+            border: 4px solid #FFFF00;
+            padding: 24px;
+        }
+
+        .ux-practice h3 {
+            font-size: 48px;
+            color: #FFFF00;
+            -webkit-text-stroke: 2px #000000;
+            margin-bottom: 8px;
+        }
+
+        .ux-practice h4 {
+            font-size: 18px;
+            margin-bottom: 12px;
+            color: #000000;
+        }
+
+        .ux-practice p {
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 0;
+            color: #000000;
+        }
+
+        .ux-source {
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 14px;
+            margin-top: 32px;
+            padding-top: 32px;
+            border-top: 3px solid #FFFF00;
+        }
+
+        .ux-source a {
+            color: #FFFF00;
+            font-weight: bold;
+        }
+
         .resources-box {
             background-color: #FFFF00;
             border: 8px solid #000000;
@@ -683,6 +794,14 @@
 
             .resources-box {
                 padding: 24px;
+            }
+
+            .ux-box {
+                padding: 24px;
+            }
+
+            .ux-practice h3 {
+                font-size: 36px;
             }
         }
     </style>
