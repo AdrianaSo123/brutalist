@@ -1,14 +1,14 @@
 # Neo-Brutalism Design Gallery
 
-A comprehensive design gallery showcasing the Neo-Brutalism style, from its architectural origins in the 1950s to its modern digital revival. Built as part of the Swiss Design Lineage project for IS 218 - Building Web Applications.
+A comprehensive design gallery showcasing the Neo-Brutalism style—a fusion of 1950s architectural brutalism with 1990s web design aesthetics. Built as part of the Swiss Design Lineage project for IS 218 - Building Web Applications.
 
 ## 🎨 About This Project
 
 This website demonstrates authentic Neo-Brutalist design principles:
-- **Raw aesthetics**: Thick borders, harsh angles, stark colors
-- **Honest structure**: Exposed grids, visible elements
-- **Anti-corporate**: Deliberately unrefined, rejecting polish
-- **Functional minimalism**: Only what's needed, nothing decorative
+- **Brutalist foundation**: Raw aesthetics, exposed structure, honest materials
+- **90s web nostalgia**: Blocky layouts, bold borders, early internet simplicity
+- **Bold colors**: Bright primaries and high-contrast combinations (vs. brutalism's gray)
+- **Intentionally raw**: Deliberately unpolished but carefully designed
 
 ## 📁 Project Structure
 
@@ -30,15 +30,16 @@ site/
 - **Approach**: High contrast, no gradients, no subtle tones
 
 ### Typography
-- **Fonts**: System fonts only (Arial, Helvetica, Courier)
-- **Style**: ALL CAPS headings, tight line-height (1.2-1.3)
-- **Hierarchy**: Extreme size contrast (72px to 16px)
+- **Fonts**: System fonts (Arial, Helvetica) for authenticity
+- **Style**: ALL CAPS headings, bold and chunky
+- **Hierarchy**: Extreme size contrast (96px to 16px)
+- **Approach**: Quirky allowed, but keep body text readable
 
 ### Layout
-- **Borders**: 4-5px thick black borders around all sections
+- **Borders**: 4-5px thick black borders (key neo-brutalist trait)
 - **Corners**: Sharp 90° angles (no border-radius)
-- **Shadows**: Hard offset shadows (8px 8px 0 #000)
-- **Grid**: Exposed and obvious structure
+- **Shadows**: Hard offset shadows (8px 8px 0 #000, no blur)
+- **Grid**: Blocky, geometric, structured but raw
 
 ### Spacing
 - **Philosophy**: Tight and packed, intentionally cramped
@@ -52,17 +53,17 @@ site/
 
 ## 📚 Content Pages
 
-1. **Homepage** - Introduction to Neo-Brutalism with manifesto and characteristics
-2. **History** - Timeline from 1950s Brutalist architecture to 2025 digital design
-3. **Designers** - Profiles of 7 key figures from Le Corbusier to Pascal Deville
-4. **About** - Deep dive into philosophy, principles, and common mistakes
-5. **Collaboration** - AI's reflection on the design process and decisions
+1. **Homepage** - Introduction to neo-brutalism: architectural + 90s web fusion
+2. **History** - Timeline from 1950s brutalist architecture to 2020s neo-brutalist brands
+3. **Designers** - 7 key figures from Le Corbusier to Figma's design team
+4. **About** - Philosophy, principles, brutalism vs. neo-brutalism comparison
+5. **Collaboration** - AI's reflection on the design process
 
 ## 🛠️ Built With
 
 - **HTML5** - Semantic structure
-- **CSS3** - Custom brutalist design system
-- **No JavaScript** - Pure function, no unnecessary bloat
+- **CSS3** - Custom neo-brutalist design system
+- **No JavaScript** - Pure function, Web 1.0 simplicity
 - **No frameworks** - Honest, minimal dependencies
 - **AI Collaboration** - GitHub Copilot for implementation
 
@@ -80,9 +81,10 @@ site/
 ## 🎓 Key Learnings
 
 ### Design Insights
-- **Intentionality matters**: Brutalism is deliberately rough, not accidentally ugly
-- **Constraints breed creativity**: Limiting to system fonts and stark colors forced innovative solutions
-- **Honesty is aesthetic**: Exposed structure has visual power without decoration
+- **Neo-brutalism is distinct from brutalism**: More colorful, structured, nostalgic
+- **Intentionality matters**: Neo-brutalism is deliberately designed, not accidentally ugly
+- **Balance boldness with UX**: NN/g research shows accessibility must remain priority
+- **90s nostalgia + modern polish**: Best of both eras
 
 ### Technical Decisions
 - System fonts reduce load time and embody anti-corporate ethos
@@ -105,17 +107,17 @@ site/
 - **Swiss Design Lineage** - Project framework and methodology
 
 ### Historical Context
-- Le Corbusier's Unité d'Habitation (1952)
-- Alison & Peter Smithson's Brutalist architecture
-- Pascal Deville's digital curation (2016-present)
-- Washington Post 2016 election coverage
-- Balenciaga's digital presence
+- Le Corbusier's Unité d'Habitation (1952) - Architectural foundation
+- Early web design (1995-2000) - Blocky layouts, bright colors
+- Pascal Deville's BrutalistWebsites.com (2016) - Digital curation
+- Figma rebrand (2020s) - Mainstream neo-brutalist adoption
+- Nielsen Norman Group research (2025) - UX best practices
 
 ### Design Philosophy
-- Truth to materials (architectural and digital)
-- Honest function over decoration
-- Anti-corporate rebellion
-- Raw aesthetics as statement
+- Brutalist honesty + 90s web simplicity + modern functionality
+- Bold not subtle, structured not chaotic
+- Intentionally raw but carefully designed
+- Accessible despite bold aesthetics
 
 ## 🚀 Viewing the Site
 
