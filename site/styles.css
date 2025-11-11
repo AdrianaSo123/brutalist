@@ -242,17 +242,19 @@ section {
 
 .manifesto-item:nth-child(2) {
     background-color: var(--color-pink);
+    color: var(--color-black);
     box-shadow: 10px 10px 0 var(--color-blue);
 }
 
 .manifesto-item:nth-child(3) {
     background-color: var(--color-blue);
-    color: var(--color-white);
+    color: var(--color-black);
     box-shadow: 10px 10px 0 var(--color-green);
 }
 
 .manifesto-item:nth-child(4) {
     background-color: var(--color-green);
+    color: var(--color-black);
     box-shadow: 10px 10px 0 var(--color-pink);
 }
 
@@ -411,7 +413,7 @@ section {
 .brutal-button {
     display: inline-block;
     background-color: var(--color-pink);
-    color: var(--color-white);
+    color: var(--color-black);
     border: 6px solid var(--color-black);
     padding: 20px 40px;
     font-size: 20px;
@@ -426,7 +428,8 @@ section {
 .brutal-button:hover {
     box-shadow: 4px 4px 0 var(--color-blue);
     transform: translate(4px, 4px);
-    background-color: var(--color-blue);
+    background-color: var(--color-yellow);
+    color: var(--color-black);
 }
 
 .brutal-button-alt {
