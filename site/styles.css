@@ -144,7 +144,7 @@ a:hover {
     font-size: 128px;
     margin-bottom: 24px;
     letter-spacing: -4px;
-    text-shadow: 8px 8px 0 var(--color-black);
+    text-shadow: 3px 3px 0 var(--color-black);
     animation: none;
 }
 
@@ -368,7 +368,7 @@ section {
     margin-bottom: 64px;
     color: var(--color-white);
     font-size: 72px;
-    text-shadow: 6px 6px 0 var(--color-black);
+    text-shadow: 3px 3px 0 var(--color-black);
 }
 
 .timeline-items {
@@ -460,7 +460,7 @@ section {
     color: var(--color-white);
     margin-bottom: 48px;
     font-size: 64px;
-    text-shadow: 6px 6px 0 var(--color-black);
+    text-shadow: 3px 3px 0 var(--color-black);
 }
 
 .cta-buttons {
