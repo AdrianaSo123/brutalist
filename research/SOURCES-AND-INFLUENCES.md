@@ -3,7 +3,7 @@
 
 **Created**: November 10, 2025  
 **Project**: Swiss Design Lineage - Brutalist Style  
-**Course**: IS 218 - Building Web Applications, NJIT
+**Course**: IS 373 - Building Web Applications, NJIT
 
 ---
 
@@ -589,7 +589,7 @@ From Sepideh's recommendations:
 - NN/g case studies (Tony's Chocolonely, 99percentoffsale, etc.)
 
 ### Educational Context:
-- **Course**: IS 218 - Building Web Applications
+- **Course**: IS 373 - Building Web Applications
 - **Institution**: New Jersey Institute of Technology (NJIT)
 - **Professor**: Keith Williams
 - **Assignment**: Swiss Design Lineage with AI collaboration
@@ -620,4 +620,4 @@ The result is **intentionally brutalist** (not accidentally amateur) and **funct
 **Research compiled**: November 10, 2025  
 **Project**: Neo-Brutalist Design Gallery  
 **Student**: Adriana So  
-**Course**: IS 218, NJIT, Fall 2025
+**Course**: IS 373, NJIT, Fall 2025

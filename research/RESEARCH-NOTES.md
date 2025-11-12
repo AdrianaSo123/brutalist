@@ -292,4 +292,4 @@ Based on style guide, authentic Neo-Brutalism requires:
 
 **Research completed**: November 2025  
 **Primary sources**: Neo-Brutalism Style Guide, BrutalistWebsites.com  
-**Application**: Swiss Design Lineage Project - IS 218
+**Application**: Swiss Design Lineage Project - IS 373

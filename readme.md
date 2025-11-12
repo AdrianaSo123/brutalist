@@ -1,6 +1,6 @@
 # Neo-Brutalism Design Gallery
 
-A comprehensive design gallery showcasing the Neo-Brutalism style, from its architectural origins in the 1950s to its modern digital revival. Built as part of the Swiss Design Lineage project for IS 218 - Building Web Applications.
+A comprehensive design gallery showcasing the Neo-Brutalism style, from its architectural origins in the 1950s to its modern digital revival. Built as part of the Swiss Design Lineage project for IS 373 - Building Web Applications.
 
 ⏱️ Time: ~9.5 hours | 💻 Built with: GitHub Copilot | 🎨 Style: Neo-Brutalism
 
@@ -73,7 +73,7 @@ Transform a Swiss-style website into any of 15 design styles:
 **Repository:** [github.com/kaw393939/swiss_design_lineage_vibecoding](https://github.com/kaw393939/swiss_design_lineage_vibecoding)
 
 **Contact:** Keith Williams  
-**Course:** IS 218 - Building Web Applications  
+**Course:** IS 373 - Building Web Applications  
 **Version:** 3.0 — November 2025
 
 ---

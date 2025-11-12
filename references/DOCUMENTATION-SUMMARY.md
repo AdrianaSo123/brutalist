@@ -416,7 +416,7 @@ Together, they give students:
 
 **Last Updated:** November 5, 2025  
 **Project:** Swiss Lineage Gallery  
-**Course:** IS 218 / Enterprise AI Studio Project — NJIT  
+**Course:** IS 373 / Enterprise AI Studio Project — NJIT  
 **Instructor:** Keith Williams
 
 ---

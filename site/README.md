@@ -1,6 +1,6 @@
 # Neo-Brutalism Design Gallery
 
-A comprehensive design gallery showcasing the Neo-Brutalism style—a fusion of 1950s architectural brutalism with 1990s web design aesthetics. Built as part of the Swiss Design Lineage project for IS 218 - Building Web Applications.
+A comprehensive design gallery showcasing the Neo-Brutalism style—a fusion of 1950s architectural brutalism with 1990s web design aesthetics. Built as part of the Swiss Design Lineage project for IS 373 - Building Web Applications.
 
 ## 🎨 About This Project
 
@@ -144,7 +144,7 @@ site/
 ## 👤 Project Information
 
 **Student**: Adriana So  
-**Course**: IS 218 - Building Web Applications  
+**Course**: IS 373 - Building Web Applications  
 **Institution**: NJIT  
 **Semester**: Fall 2025  
 **Style**: Neo-Brutalism (Intermediate)  
@@ -152,7 +152,7 @@ site/
 
 ## 📝 License
 
-Educational project for IS 218. Design follows Neo-Brutalist principles as documented in the Swiss Design Lineage project by Keith Williams.
+Educational project for IS 373. Design follows Neo-Brutalist principles as documented in the Swiss Design Lineage project by Keith Williams.
 
 ---
 
