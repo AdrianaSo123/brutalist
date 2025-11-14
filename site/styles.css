@@ -580,6 +580,10 @@ section {
         grid-template-columns: 1fr;
     }
     
+    .manifesto-grid {
+        grid-template-columns: 1fr;
+    }
+    
     .char-box {
         padding: 32px;
         box-shadow: 8px 8px 0 var(--color-yellow);
