@@ -145,7 +145,7 @@ a:hover {
     font-size: 128px;
     margin-bottom: 32px;
     letter-spacing: -4px;
-    text-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2);
+    text-shadow: none;
     animation: none;
 }
 
