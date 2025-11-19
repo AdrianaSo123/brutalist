@@ -5,15 +5,16 @@
 
 ## Primary Colors (CSS Variables)
 
+**Limited Palette: Black + White + 3 Accent Colors**  
+Following Nielsen Norman Group recommendation to prevent overwhelming users.
+
 ```css
 :root {
     --color-black: #000000;
     --color-white: #FFFFFF;
-    --color-yellow: #FFFF00;
-    --color-pink: #FF69B4;
-    --color-blue: #00CED1;
-    --color-green: #00FF7F;
-    --color-red: #FF1744;
+    --color-green: #00FF7F;  /* Primary accent - most used */
+    --color-yellow: #FFFF00; /* Secondary accent */
+    --color-pink: #FF69B4;   /* Tertiary accent */
 }
 ```
 
@@ -23,19 +24,20 @@
 |-------|----------|--------------|-------|
 | **Black** | `#000000` | `var(--color-black)` | Text, borders, backgrounds |
 | **White** | `#FFFFFF` | `var(--color-white)` | Backgrounds, text on dark |
-| **Yellow** | `#FFFF00` | `var(--color-yellow)` | Accent color, highlights |
-| **Pink** | `#FF69B4` | `var(--color-pink)` | Shadows, accents |
-| **Blue** | `#00CED1` | `var(--color-blue)` | Accents, highlights |
-| **Green** | `#00FF7F` | `var(--color-green)` | Shadows, backgrounds |
-| **Red** | `#FF1744` | `var(--color-red)` | Alert color, accents |
+| **Green** | `#00FF7F` | `var(--color-green)` | Primary accent - shadows, backgrounds |
+| **Yellow** | `#FFFF00` | `var(--color-yellow)` | Secondary accent - highlights |
+| **Pink** | `#FF69B4` | `var(--color-pink)` | Tertiary accent - shadows, accents |
 
 ## ❌ OLD COLORS (DO NOT USE)
 
-These colors were replaced in the standardization:
+These colors were removed in the palette simplification:
+- ~~`#00CED1`~~ (blue) - Never used, removed
+- ~~`#FF1744`~~ (red) - Replaced with pink #FF69B4
 - ~~`#FFD93D`~~ → Use `#FFFF00` (yellow)
 - ~~`#FF6B9D`~~ → Use `#FF69B4` (pink)
 - ~~`#6BCF7F`~~ → Use `#00FF7F` (green)
-- ~~`#FF6B6B`~~ → Use `#FF1744` (red)
+
+**Rationale:** Limited to 3 accent colors (green, yellow, pink) to prevent overwhelming users while maintaining Neo-Brutalist boldness.
 
 ## Where Colors Are Defined
 
@@ -69,4 +71,4 @@ All color combinations meet WCAG AA standards:
 
 ## Last Updated
 
-November 19, 2025 - Color standardization audit
+November 19, 2025 - Simplified to 3 accent colors (green, yellow, pink) following NN/g UX recommendation to limit palette and prevent overwhelming users.
