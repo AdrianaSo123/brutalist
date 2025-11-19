@@ -6,15 +6,16 @@
 ## Primary Colors (CSS Variables)
 
 **Limited Palette: Black + White + 3 Accent Colors**  
-Following Nielsen Norman Group recommendation to prevent overwhelming users.
+Following Nielsen Norman Group recommendation to prevent overwhelming users.  
+**Inspired by:** Modern Neo-Brutalist reference designs (yellow, cyan, pink combo)
 
 ```css
 :root {
     --color-black: #000000;
     --color-white: #FFFFFF;
-    --color-green: #00FF7F;  /* Primary accent - most used */
-    --color-yellow: #FFFF00; /* Secondary accent */
-    --color-pink: #FF69B4;   /* Tertiary accent */
+    --color-green: #00FFB3;  /* Cyan/turquoise - primary accent */
+    --color-yellow: #FFFF00; /* Yellow - secondary accent */
+    --color-pink: #FF69B4;   /* Pink - tertiary accent */
 }
 ```
 
@@ -24,20 +25,21 @@ Following Nielsen Norman Group recommendation to prevent overwhelming users.
 |-------|----------|--------------|-------|
 | **Black** | `#000000` | `var(--color-black)` | Text, borders, backgrounds |
 | **White** | `#FFFFFF` | `var(--color-white)` | Backgrounds, text on dark |
-| **Green** | `#00FF7F` | `var(--color-green)` | Primary accent - shadows, backgrounds |
+| **Cyan** | `#00FFB3` | `var(--color-green)` | Primary accent - shadows, backgrounds |
 | **Yellow** | `#FFFF00` | `var(--color-yellow)` | Secondary accent - highlights |
 | **Pink** | `#FF69B4` | `var(--color-pink)` | Tertiary accent - shadows, accents |
 
 ## ❌ OLD COLORS (DO NOT USE)
 
-These colors were removed in the palette simplification:
-- ~~`#00CED1`~~ (blue) - Never used, removed
+These colors were removed or replaced:
+- ~~`#00CED1`~~ (old blue) - Never used, removed
 - ~~`#FF1744`~~ (red) - Replaced with pink #FF69B4
+- ~~`#00FF7F`~~ (spring green) → Use `#00FFB3` (cyan/turquoise)
 - ~~`#FFD93D`~~ → Use `#FFFF00` (yellow)
 - ~~`#FF6B9D`~~ → Use `#FF69B4` (pink)
-- ~~`#6BCF7F`~~ → Use `#00FF7F` (green)
+- ~~`#6BCF7F`~~ → Use `#00FFB3` (cyan)
 
-**Rationale:** Limited to 3 accent colors (green, yellow, pink) to prevent overwhelming users while maintaining Neo-Brutalist boldness.
+**Current palette:** Inspired by modern Neo-Brutalist designs - cyan, yellow, pink combo creates vibrant but cohesive look.
 
 ## Where Colors Are Defined
 
@@ -71,4 +73,4 @@ All color combinations meet WCAG AA standards:
 
 ## Last Updated
 
-November 19, 2025 - Simplified to 3 accent colors (green, yellow, pink) following NN/g UX recommendation to limit palette and prevent overwhelming users.
+November 19, 2025 - Updated to cyan/turquoise (#00FFB3) inspired by modern Neo-Brutalist reference designs. Final palette: cyan, yellow, pink - vibrant but cohesive.
