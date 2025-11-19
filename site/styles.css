@@ -579,13 +579,14 @@ section {
     
     .nav-links {
         flex-direction: column;
-        gap: 12px;
+        gap: 16px;
         text-align: center;
         width: 100%;
     }
     
     .nav-links a {
         width: 100%;
+        display: block;
     }
     
     .char-grid {
