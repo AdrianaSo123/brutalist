@@ -7,15 +7,15 @@
 
 **Limited Palette: Black + White + 3 Accent Colors**  
 Following Nielsen Norman Group recommendation to prevent overwhelming users.  
-**Inspired by:** Modern Neo-Brutalist reference designs (yellow, cyan, pink combo)
+**Inspired by:** Modern Neo-Brutalist reference designs - softer, less harsh palette
 
 ```css
 :root {
     --color-black: #000000;
     --color-white: #FFFFFF;
     --color-green: #00FFB3;  /* Cyan/turquoise - primary accent */
-    --color-yellow: #FFFF00; /* Yellow - secondary accent */
-    --color-pink: #FF69B4;   /* Pink - tertiary accent */
+    --color-yellow: #F7E74F; /* Softer yellow - less harsh */
+    --color-pink: #FFB3D9;   /* Softer pink/lavender - pastel */
 }
 ```
 
@@ -26,20 +26,20 @@ Following Nielsen Norman Group recommendation to prevent overwhelming users.
 | **Black** | `#000000` | `var(--color-black)` | Text, borders, backgrounds |
 | **White** | `#FFFFFF` | `var(--color-white)` | Backgrounds, text on dark |
 | **Cyan** | `#00FFB3` | `var(--color-green)` | Primary accent - shadows, backgrounds |
-| **Yellow** | `#FFFF00` | `var(--color-yellow)` | Secondary accent - highlights |
-| **Pink** | `#FF69B4` | `var(--color-pink)` | Tertiary accent - shadows, accents |
+| **Yellow** | `#F7E74F` | `var(--color-yellow)` | Secondary accent - softer, less harsh |
+| **Pink** | `#FFB3D9` | `var(--color-pink)` | Tertiary accent - pastel pink/lavender |
 
 ## ❌ OLD COLORS (DO NOT USE)
 
 These colors were removed or replaced:
-- ~~`#00CED1`~~ (old blue) - Never used, removed
-- ~~`#FF1744`~~ (red) - Replaced with pink #FF69B4
-- ~~`#00FF7F`~~ (spring green) → Use `#00FFB3` (cyan/turquoise)
-- ~~`#FFD93D`~~ → Use `#FFFF00` (yellow)
-- ~~`#FF6B9D`~~ → Use `#FF69B4` (pink)
-- ~~`#6BCF7F`~~ → Use `#00FFB3` (cyan)
+- ~~`#FFFF00`~~ (harsh yellow) → Use `#F7E74F` (softer yellow)
+- ~~`#FF69B4`~~ (hot pink) → Use `#FFB3D9` (softer pastel pink)
+- ~~`#00CED1`~~ (old blue) - Removed
+- ~~`#FF1744`~~ (red) - Removed
+- ~~`#00FF7F`~~ (spring green) → Use `#00FFB3` (cyan)
+- ~~`#FFD93D`~~, ~~`#FF6B9D`~~, ~~`#6BCF7F`~~ - Old versions
 
-**Current palette:** Inspired by modern Neo-Brutalist designs - cyan, yellow, pink combo creates vibrant but cohesive look.
+**Current palette:** Softer, less harsh colors inspired by modern Neo-Brutalist designs. Maintains boldness without being overwhelming.
 
 ## Where Colors Are Defined
 

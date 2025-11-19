@@ -5,9 +5,9 @@
 :root {
     --color-black: #000000;
     --color-white: #FFFFFF;
-    --color-yellow: #FFFF00;
-    --color-pink: #FF69B4;
-    --color-green: #00FFB3;  /* Cyan/turquoise from reference */
+    --color-yellow: #F7E74F;  /* Softer yellow - less harsh */
+    --color-pink: #FFB3D9;    /* Softer pink/lavender - pastel */
+    --color-green: #00FFB3;   /* Cyan/turquoise */
 }
 
 /* ===== RESET & BASE ===== */
