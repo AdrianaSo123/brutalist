@@ -367,7 +367,6 @@ section {
     margin-bottom: 64px;
     color: var(--color-black);
     font-size: 72px;
-    text-shadow: 3px 3px 0 var(--color-white);
 }
 
 .timeline-items {
@@ -549,7 +548,6 @@ section {
     
     .hero-title {
         font-size: 72px;
-        text-shadow: 4px 4px 0 var(--color-black);
     }
     
     .hero-subtitle {
@@ -704,7 +702,6 @@ section {
     position: absolute;
     top: -20px;
     right: -20px;
-    text-shadow: 3px 3px 0 var(--color-black);
 }
 
 /* Optional: Add rotating text effect */
