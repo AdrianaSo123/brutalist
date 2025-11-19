@@ -7,9 +7,9 @@
     --color-white: #FFFFFF;
     --color-yellow: #FFFF00;
     --color-pink: #FF69B4;
-    --color-blue: #00BFFF;
-    --color-green: #00FF7F;
-    --color-red: #FF4444;
+    --color-blue: #0000FF;
+    --color-green: #00FF00;
+    --color-red: #FF0000;
 }
 
 /* ===== RESET & BASE ===== */
@@ -127,8 +127,8 @@ a:hover {
 
 /* ===== HERO SECTION ===== */
 .hero {
-    background: linear-gradient(135deg, var(--color-pink) 0%, var(--color-blue) 100%);
-    color: var(--color-white);
+    background-color: var(--color-pink);
+    color: var(--color-black);
     padding: 120px 48px;
     border-bottom: 12px solid var(--color-black);
     box-shadow: 0 12px 0 var(--color-yellow);
@@ -358,7 +358,7 @@ section {
 }
 
 .timeline-box {
-    background: linear-gradient(135deg, var(--color-pink) 0%, var(--color-blue) 100%);
+    background-color: var(--color-blue);
     border: 10px solid var(--color-black);
     padding: 64px;
     box-shadow: 16px 16px 0 var(--color-yellow);
@@ -449,8 +449,8 @@ section {
 }
 
 .cta-box {
-    background: linear-gradient(135deg, var(--color-blue) 0%, var(--color-green) 100%);
-    color: var(--color-white);
+    background-color: var(--color-green);
+    color: var(--color-black);
     border: 12px solid var(--color-black);
     padding: 80px;
     text-align: center;
@@ -458,10 +458,10 @@ section {
 }
 
 .cta-box h2 {
-    color: var(--color-white);
+    color: var(--color-black);
     margin-bottom: 48px;
     font-size: 64px;
-    text-shadow: 3px 3px 0 var(--color-black);
+    text-shadow: none;
 }
 
 .cta-buttons {
@@ -689,17 +689,7 @@ section {
 
 .pixel-divider {
     height: 8px;
-    background: repeating-linear-gradient(
-        90deg,
-        var(--color-pink) 0px,
-        var(--color-pink) 20px,
-        var(--color-blue) 20px,
-        var(--color-blue) 40px,
-        var(--color-yellow) 40px,
-        var(--color-yellow) 60px,
-        var(--color-green) 60px,
-        var(--color-green) 80px
-    );
+    background-color: var(--color-yellow);
     border-top: 4px solid var(--color-black);
     border-bottom: 4px solid var(--color-black);
     margin: 64px 0;
