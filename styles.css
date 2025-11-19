@@ -365,9 +365,9 @@ section {
 .timeline-box h2 {
     text-align: center;
     margin-bottom: 64px;
-    color: var(--color-white);
+    color: var(--color-black);
     font-size: 72px;
-    text-shadow: 3px 3px 0 var(--color-black);
+    text-shadow: 3px 3px 0 var(--color-white);
 }
 
 .timeline-items {
