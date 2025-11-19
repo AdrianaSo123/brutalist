@@ -1,4 +1,4 @@
-# Neo-Brutalism Style Guide
+2# Neo-Brutalism Style Guide
 ## Raw, Honest, Anti-Corporate Web Design
 
 **For:** Enterprise AI Studio Project  
@@ -300,12 +300,12 @@ For anything below 8, explain what's too refined and how to make it more Brutali
 
 ---
 
-### Mistake 2: Using Too Many Colors
+### Mistake 2: Using Subtle or Pastel Colors
 
-**Wrong:** Full rainbow palette, pastels, muted tones  
-**Right:** Black, white, one or two bright accent colors
+**Wrong:** Pastels, muted tones, subtle gradients, low contrast  
+**Right:** Black, white, bright pure primaries (red #FF0000, blue #0000FF, yellow #FFFF00, green #00FF00)
 
-**Why it's wrong:** Neo-Brutalism is stark and high-contrast, not colorful and playful.
+**Why it's wrong:** Neo-Brutalism uses bold, pure colors at full saturation. Multiple bright colors are fine (see Figma, Gumroad), but they must be high-contrast and flat (no gradients).
 
 ---
 
