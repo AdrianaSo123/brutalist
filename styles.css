@@ -5,11 +5,11 @@
 :root {
     --color-black: #000000;
     --color-white: #FFFFFF;
-    --color-yellow: #FFD600;
-    --color-pink: #FF1493;
-    --color-blue: #0066FF;
-    --color-green: #00CC66;
-    --color-red: #FF0033;
+    --color-yellow: #FFC700;
+    --color-pink: #FF2E97;
+    --color-blue: #0047FF;
+    --color-green: #00D878;
+    --color-red: #FF003D;
 }
 
 /* ===== RESET & BASE ===== */
